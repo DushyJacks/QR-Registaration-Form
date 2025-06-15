@@ -1,0 +1,24 @@
+# Environment files
+.env
+
+# Dependency directories
+/vendor/
+/node_modules/
+
+# Logs and databases
+*.log
+*.sqlite
+*.sql
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# QR code storage
+assets/qr_codes/*
