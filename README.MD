@@ -14,5 +14,5 @@ A complete QR code generation and scanning solution with registration and email 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dushyjacks/scanner-app.git
+   git clone https://github.com/DushyJacks/QR-Registaration-Form.git
    cd scanner-app
